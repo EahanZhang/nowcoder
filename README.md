@@ -1,2 +1,2 @@
 # nowcoder
-## These are subjects I have got accessed from nowcoder website.
+## These are subjects I have got A from nowcoder website.
